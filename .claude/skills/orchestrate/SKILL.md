@@ -1,5 +1,6 @@
 ---
-description: Run a task through researcher → implementer → reviewer subagents
+name: orchestrate
+description: Run a task through researcher → implementer → reviewer subagents. Use when the user invokes /orchestrate or asks to research, implement and review a change as one flow.
 argument-hint: <task description>
 ---
 
